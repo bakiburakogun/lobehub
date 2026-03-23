@@ -32,7 +32,7 @@
   "duplicateTitle": "{{title}} Kopya",
   "emptyAgent": "Asistan yok",
   "historyRange": "Geçmiş Aralığı",
-  "historySummary": "Tarihsel haber özeti",
+  "historySummary": "Geçmiş mesaj özeti",
   "inbox": {
     "desc": "Beyin fırtınasını başlatın ve yaratıcı düşünmeye başlayın. Sanal asistanınız burada, her konuda sizinle iletişim kurmak için hazır.",
     "title": "Sohbet Et"
@@ -72,7 +72,7 @@
   },
   "newAgent": "Yeni Asistan",
   "pin": "Pin",
-  "pinOff": "Unpin",
+  "pinOff": "Sabitlemeyi Kaldır",
   "rag": {
     "referenceChunks": "Referans Parçaları",
     "userQuery": {
@@ -155,8 +155,8 @@
     "clear": "Çeviriyi Temizle"
   },
   "tts": {
-    "action": "Text-to-Speech",
-    "clear": "Clear Speech"
+    "action": "Metni Seslendir",
+    "clear": "Seslendirmeyi Temizle"
   },
   "updateAgent": "Asistan Bilgilerini Güncelle",
   "upload": {

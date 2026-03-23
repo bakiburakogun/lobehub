@@ -6,7 +6,7 @@
       "filename": "Dosya Adı",
       "size": "Dosya Boyutu",
       "title": "Temel Bilgiler",
-      "type": "Format",
+      "type": "Dosya Türü",
       "updatedAt": "Güncellenme Zamanı"
     },
     "data": {

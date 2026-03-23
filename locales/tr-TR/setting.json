@@ -133,7 +133,7 @@
   },
   "settingAgent": {
     "avatar": {
-      "title": "Avatar"
+      "title": "Profil Resmi"
     },
     "backgroundColor": {
       "title": "Arka Plan Rengi"
@@ -203,15 +203,15 @@
     },
     "frequencyPenalty": {
       "desc": "Değer ne kadar yüksekse, tekrarlayan kelimeleri azaltma olasılığı o kadar yüksektir",
-      "title": "Frequency Penalty"
+      "title": "Tekrar Cezası"
     },
     "maxTokens": {
       "desc": "Her etkileşim için kullanılan maksimum token sayısı",
       "title": "Max Token Sınırlaması"
     },
     "model": {
-      "desc": "{{provider}} Model",
-      "title": "Model"
+      "desc": "{{provider}} Modeli",
+      "title": "Model Seçimi"
     },
     "presencePenalty": {
       "desc": "Değer ne kadar yüksekse, yeni konulara genişleme olasılığı o kadar yüksektir",
@@ -219,7 +219,7 @@
     },
     "temperature": {
       "desc": "Değer ne kadar yüksekse, yanıt o kadar rastgele olur",
-      "title": "Randomness",
+      "title": "Rastgelelik",
       "titleWithValue": "temperature {{value}}"
     },
     "title": "Model Ayarları",
@@ -258,7 +258,7 @@
   "settingTTS": {
     "openai": {
       "sttModel": "OpenAI Konuşmadan Metne Modeli",
-      "title": "OpenAI",
+      "title": "OpenAI Ses Servisi",
       "ttsModel": "OpenAI Metin Seslendirme Modeli"
     },
     "showAllLocaleVoice": {
@@ -292,12 +292,12 @@
   },
   "settingTheme": {
     "avatar": {
-      "title": "Avatar"
+      "title": "Profil Resmi"
     },
     "fontSize": {
       "desc": "Sohbet içeriği için yazı boyutu",
       "marks": {
-        "normal": "Normal"
+        "normal": "Orta"
       },
       "title": "Yazı Boyutu"
     },

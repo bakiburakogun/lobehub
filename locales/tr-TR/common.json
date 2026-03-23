@@ -25,7 +25,7 @@
     "showDetail": "Detayları Görüntüle"
   },
   "autoGenerate": "Otomatik Oluştur",
-  "autoGenerateTooltip": "Auto-generate agent description based on prompts",
+  "autoGenerateTooltip": "İstemlere dayalı olarak asistan açıklamasını otomatik oluştur",
   "autoGenerateTooltipDisabled": "Otomatik tamamlama işlevini kullanmadan önce ipucu kelimesini girin",
   "back": "Geri",
   "batchDelete": "Toplu Sil",
@@ -33,7 +33,7 @@
   "branching": "Alt konu oluştur",
   "branchingDisable": "«Alt konu» özelliği yalnızca sunucu sürümünde mevcuttur. Bu özelliği kullanmak için lütfen sunucu dağıtım moduna geçin veya LobeChat Cloud'u kullanın.",
   "cancel": "İptal",
-  "changelog": "Changelog",
+  "changelog": "Değişiklik Günlüğü",
   "clientDB": {
     "autoInit": {
       "title": "PGlite veritabanı başlatılıyor"
@@ -109,7 +109,7 @@
     "allAgentWithMessage": "Tüm Asistan ve Mesajları Dışa Aktar",
     "globalSetting": "Ayarları Dışa Aktar"
   },
-  "feedback": "Feedback",
+  "feedback": "Geri Bildirim",
   "follow": "Bizi {{name}} üzerinde takip edin",
   "footer": {
     "action": {
@@ -213,14 +213,14 @@
   "oauth": "SSO Girişi",
   "officialSite": "Resmi Site",
   "ok": "Tamam",
-  "password": "Password",
+  "password": "Şifre",
   "pin": "Pin",
-  "pinOff": "Unpin",
+  "pinOff": "Sabitlemeyi Kaldır",
   "privacy": "Gizlilik Politikası",
   "regenerate": "Tekrarla",
   "releaseNotes": "Sürüm Detayları",
   "rename": "Yeniden İsimlendir",
-  "reset": "Reset",
+  "reset": "Sıfırla",
   "retry": "Yeniden Dene",
   "send": "Gönder",
   "setting": "Ayarlar",
@@ -260,7 +260,7 @@
     }
   },
   "tab": {
-    "chat": "Chat",
+    "chat": "Sohbet",
     "discover": "Keşfet",
     "files": "Dosyalar",
     "me": "ben",
