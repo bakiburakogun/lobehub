@@ -571,5 +571,17 @@
   "visibilityConfirm.publish.itemLoaded": "Geri döndüğünüzde, diğerlerinin zaten yüklediği içerik geri alınamaz",
   "visibilityConfirm.publish.itemReversible": "Aynı menüden tekrar özel yapabilirsiniz",
   "visibilityConfirm.publish.itemVisible": "Tüm çalışma alanı üyeleri bunu hemen görecek",
-  "zoom": "Yakınlaştır"
+  "zoom": "Yakınlaştır",
+  "taskDock.activeOf": "{{active}} çalışıyor · toplam {{total}}",
+  "taskDock.cancelAll": "Tümünü iptal et",
+  "taskDock.collapse": "Daralt",
+  "taskDock.expand": "Genişlet",
+  "taskDock.group.publish": "Yayınlanıyor",
+  "taskDock.group.upload": "Yüklemeler",
+  "taskDock.open": "Aç",
+  "taskDock.status.cancelled": "İptal edildi",
+  "taskDock.status.error": "Bazı görevler dikkat gerektiriyor",
+  "taskDock.status.running": "Devam ediyor",
+  "taskDock.status.success": "Tümü tamamlandı",
+  "taskDock.totalCount": "{{count}} öğe"
 }

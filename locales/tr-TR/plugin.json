@@ -467,7 +467,7 @@
   "builtins.lobe-task.goal.addCriterion": "Kabul kriteri ekle",
   "builtins.lobe-task.goal.costBudget": "Toplam maliyet bütçesi",
   "builtins.lobe-task.goal.criteria": "Kabul kriterleri",
-  "builtins.lobe-task.goal.editCriterion": "Kriteri düzenle C{{seq}}",
+  "builtins.lobe-task.goal.editCriterion": "Kriteri düzenle",
   "builtins.lobe-task.goal.phase.accepted": "Kabul edildi",
   "builtins.lobe-task.goal.phase.awaitingDecision": "Geçmedi — sizin kararınız",
   "builtins.lobe-task.goal.phase.awaitingReview": "İncelemenizi bekliyor",
@@ -880,5 +880,9 @@
   "store.tabs.old": "LobeHub Skill'leri",
   "store.title": "Skill Mağazası",
   "unknownError": "Bilinmeyen hata",
-  "unknownPlugin": "Bilinmeyen Skill"
+  "unknownPlugin": "Bilinmeyen Skill",
+  "builtins.lobe-agent-builder.render.updatePrompt.cleared": "Sistem istemi temizlendi",
+  "builtins.lobe-agent-builder.render.updatePrompt.updated": "Sistem istemi güncellendi",
+  "builtins.lobe-agent-builder.render.updatePrompt.unchanged": "Sistem istemi değişmedi",
+  "builtins.lobe-agent-builder.render.updatePrompt.newPrompt": "Yeni istem ({{count}} karakter)"
 }

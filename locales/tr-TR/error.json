@@ -200,5 +200,6 @@
   "workspaceFrozenByRiskControl.description": "Bu çalışma alanı, anormal harcama tespit edildikten sonra risk kontrolü tarafından otomatik olarak donduruldu. Durumu gözden geçirmek ve dondurmayı kaldırmak için destekle iletişime geçin.",
   "workspaceFrozenByRiskControl.frozenAt": "Dondurulma tarihi",
   "workspaceFrozenByRiskControl.title": "Çalışma alanı risk kontrolü tarafından otomatik olarak donduruldu",
-  "workspaceFrozenByRiskControl.topup": "Kredi yükle"
+  "workspaceFrozenByRiskControl.topup": "Kredi yükle",
+  "response.UnreadableServerResponse": "Üzgünüz, sunucu uygulamanın okuyamadığı bir yanıt döndürdü. Bu genellikle geçici bir ağ veya ağ geçidi sorunudur — lütfen birazdan tekrar deneyin."
 }

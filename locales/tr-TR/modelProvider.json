@@ -190,7 +190,7 @@
   "providerModels.config.oauth.authorizedDesc": "{{name}} ile bağlantı kuruldu. Bağlantıyı kesmek için tıklayın.",
   "providerModels.config.oauth.cancel": "İptal",
   "providerModels.config.oauth.codeExpired": "Yetkilendirme kodunun süresi doldu. Lütfen tekrar deneyin.",
-  "providerModels.config.oauth.connect": "{{name}} ile Bağlan",
+  "providerModels.config.oauth.connect": "Bağlan",
   "providerModels.config.oauth.connectDesc": "Tarayıcı üzerinden yetkilendirmek için tıklayın. API anahtarı gerekmez.",
   "providerModels.config.oauth.connected": "Bağlandı",
   "providerModels.config.oauth.connecting": "Bağlanıyor...",
@@ -360,5 +360,7 @@
   "vertexai.region.placeholder": "Bölge seçin",
   "vertexai.region.title": "Vertex AI Bölgesi",
   "zeroone.title": "01.AI Zero One Everything",
-  "zhipu.title": "Zhipu"
+  "zhipu.title": "Zhipu",
+  "providerModels.item.modelConfig.extendParams.options.gpt6ReasoningEffort.hint": "GPT-6 serisi için; akıl yürütme yoğunluğunu Düşük'ten Maksimum'a kadar kontrol eder. Akıl yürütme devre dışı bırakılamaz.",
+  "providerModels.item.modelConfig.extendParams.options.qwen38ReasoningEffort.hint": "Qwen3.8 Max hibrit düşünme için; akıl yürütme yoğunluğunu kontrol eder. `none` düşünmeyi devre dışı bırakır; `low`/`medium` derinlikten ödün vererek hız ve maliyet kazandırır; `xhigh` karmaşık analiz için API varsayılanıdır."
 }
